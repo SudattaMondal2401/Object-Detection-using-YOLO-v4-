@@ -10,7 +10,7 @@ Both these models were almost completely implemented using the OpenCV library. W
 
 ### Model used
 
-We implemented the models using the YOLO v4 pre-trained neural network model which we downloaded from the darknet repository by AlexeyAB. The link to the model can be found (here)[https://github.com/AlexeyAB/darknet].
+We implemented the models using the YOLO v4 pre-trained neural network model which we downloaded from the darknet repository by AlexeyAB. The link to the model can be found [here](https://github.com/AlexeyAB/darknet).
 
 ### Dataset used
 
